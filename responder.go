@@ -3,7 +3,7 @@ package dnssd
 import (
 	"context"
 	"fmt"
-	"github.com/brutella/dnssd/log"
+	"github.com/xpol/dnssd/log"
 	"github.com/miekg/dns"
 	"math/rand"
 	"net"
